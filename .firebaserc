@@ -1,5 +1,7 @@
 {
   "projects": {
-    "default": "react-blogs-app"
-  }
+    "default": "react-blogs-app-50f67"
+  },
+  "targets": {},
+  "etags": {}
 }
